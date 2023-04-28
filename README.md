@@ -1,3 +1,7 @@
+- [secure-software-development](#secure-software-development)
+  - [Lab Reports](#lab-reports)
+    - [Lab 01 - Buffer Overflow](#lab-01---buffer-overflow)
+    - [Lab 02](#lab-02)
 # secure-software-development
 Within this repository you can find the 3 assignments that I produced within this module.
 ## Lab Reports
@@ -12,3 +16,5 @@ Within this file you will find:
 * The file that was to be analysed (Buffer Overflow Exercise Code)
 ### Lab 02
 In this second lab report, the option was given to choose the machine, in which to analyse.
+
+You can find the report either in the folder or at this [link](https://docs.google.com/document/d/1ToDOXwxzOPtnL2iMGjKrkQoOEIwfLZOV/edit?usp=sharing&ouid=103168906336398527104&rtpof=true&sd=true)
