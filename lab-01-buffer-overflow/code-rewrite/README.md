@@ -17,7 +17,7 @@ Within this folder there are the executables and source code for the code rewrit
 
 To run the executable and overflow the buffer use the following commands, depending on your machine. Note that the buffer should not overflow for ```product-rewrite```. 
 
-The address for the function to execute may change on your machine but simply change the characters, within the python print statement, in reverse pairs of 2. Therefore ```0x8764f4c8``` becomes ```'\xc8\xf4\x64\x87```.
+The address for the function to execute may change on your machine but simply change the characters, within the python print statement, in reverse pairs of 2. Therefore ```0x8764f4c8``` becomes ```\xc8\xf4\x64\x87```.
 
 ### Windows
 
