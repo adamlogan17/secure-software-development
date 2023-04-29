@@ -1,20 +1,20 @@
 - [secure-software-development](#secure-software-development)
   - [Lab Reports](#lab-reports)
     - [Lab 01 - Buffer Overflow](#lab-01---buffer-overflow)
-    - [Lab 02](#lab-02)
-# secure-software-development
-Within this repository you can find the 3 assignments that I produced within this module.
-## Lab Reports
-### Lab 01 - Buffer Overflow 
-This was the first lab report that was produced for this module. 
+    - [Lab 02 - SQLi](#lab-02---sqli)
 
-Within this file you will find: 
-* The report in both pdf and docx file formats (Buffer Overflow Report) 
-* The template in which I was requested to follow (Report Template)
-* My feedback for the report (Feedback)
-* The source code that was provided (product)
-* The file that was to be analysed (Buffer Overflow Exercise Code)
-### Lab 02
-In this second lab report, the option was given to choose the machine, in which to analyse.
+# secure-software-development
+
+Within this repository you can find the 3 assignments that I produced within this module.
+
+## Lab Reports
+
+### Lab 01 - Buffer Overflow
+
+This was the first lab report that was produced for this module and consisted of analysing a given executable file.
+
+### Lab 02 - SQLi
+
+In this second lab report, the option was given to choose the 'box', in which to analyse. I had chosen the 'Appointment' box from 'Hack the Box'.
 
 You can find the report either in the folder or at this [link](https://docs.google.com/document/d/1ToDOXwxzOPtnL2iMGjKrkQoOEIwfLZOV/edit?usp=sharing&ouid=103168906336398527104&rtpof=true&sd=true)
