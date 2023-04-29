@@ -13,7 +13,7 @@ Within this report, a 'box' from 'Hack the Box' was allowed to be chosen to perf
 - The report in both pdf and docx file formats (Appointment Hack The Box Report)
 - The template in which I was requested to follow (Report Template)
 - My feedback for the report (Feedback)
-- The code rewrite that was undertaken (Code Rewrite)
+- The code rewrite that was undertaken (code-rewrite)
   - Instructions on how to run the code can be found in the ```README.md``` within the file
 - Output of the ```nmap``` scan (appointment)
 - The ```wappalyzer``` output (cleaned-wappalyzer-output)

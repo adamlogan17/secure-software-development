@@ -15,3 +15,5 @@ This report consisted of analysing a product and determining its vulnerability. 
 - My feedback for the report (Feedback)
 - The source code that was provided (product)
 - The file that was to be analysed (Buffer Overflow Exercise Code)
+- The code rewrite that was undertaken (code-rewrite)
+  - Instructions on how to run the code can be found in the ```README.md``` within the file
