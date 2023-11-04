@@ -7,7 +7,7 @@
 
     <body>
         <div class="wrapper">
-            <h2 id="title">Results</h2>
+            <h2 class="title" id="site-title">Results</h2>
 
             <div class="row">
                 <div class="full-col">
@@ -49,7 +49,7 @@
                     <br>
                     <br>
 
-                    <a style="text-decoration: none;" id="x" class="labelButton" href="../index.php">Go Back</a>
+                    <a class="labelButton" href="../index.php">Go Back</a>
 
                 </div>
             </div>

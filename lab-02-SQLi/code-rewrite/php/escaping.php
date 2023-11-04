@@ -7,7 +7,7 @@
 
     <body>
         <div class="wrapper">
-            <h2 id="title">Results</h2>
+            <h2 class="title" id="site-title">Results</h2>
 
             <div class="row">
                 <div class="full-col">

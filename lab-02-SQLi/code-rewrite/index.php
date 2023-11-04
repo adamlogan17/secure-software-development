@@ -10,7 +10,7 @@
     <body>
         <div class="wrapper">
 
-            <h2 id="title">SQLi Example and Code Rewrite</h2>
+            <h2 class="title" id="site-title">SQLi Example and Code Rewrite</h2>
 
             <br>
 
@@ -65,7 +65,7 @@
 
             <div class="row">
                 <div class="full-col">
-                    <h3>Vulnerable Form</h3>
+                    <h3 class="title">Vulnerable Form</h3>
                     <br>
                     <form action="php/injectionVul.php" method="get">
                         <div class="data-input">
@@ -85,7 +85,7 @@
 
             <div class="row">
                 <div class="full-col" id="input-data-section">
-                    <h3>Input Sanitation</h3>
+                    <h3 class="title">Input Sanitation</h3>
                     <br>
 
                     <form action="php/blacklist.php" method="get">
@@ -107,7 +107,7 @@
 
             <div class="row">
                 <div class="full-col">
-                    <h3>Escaping</h3>
+                    <h3 class="title">Escaping</h3>
                     <br>
 
                     <form action="php/escaping.php" method="get">
@@ -129,7 +129,7 @@
 
             <div class="row">
                 <div class="full-col">
-                    <h3>Parameterised Input</h3>
+                    <h3 class="title">Parameterised Input</h3>
                     <br>
 
                     <form action="php/parameterisedInput.php" method="get">
@@ -151,7 +151,7 @@
 
             <div class="row">
                 <div class="full-col">
-                    <h3>Stored Procedure</h3>
+                    <h3 class="title">Stored Procedure</h3>
                     <br>
 
                     <form action="php/storedProcedures.php" method="get">
@@ -173,7 +173,7 @@
 
             <div class="row">
                 <div class="full-col">
-                    <h3>All Prevention Techniques</h3>
+                    <h3 class="title">All Prevention Techniques</h3>
                     <br>
 
                     <form action="php/allTechniques.php" method="get">
